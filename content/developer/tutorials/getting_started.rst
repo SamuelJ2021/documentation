@@ -23,7 +23,7 @@ chapters should be followed in their given order since they cover the developmen
 application from scratch in an incremental way. In other words, each chapter depends on the previous
 one.
 
-.. attention::
+.. warning::
    Are you following this tutorial as part of your technical onboarding as an Odoo employee? Then,
    we ask you to complete all the chapters before joining your new team.
 
